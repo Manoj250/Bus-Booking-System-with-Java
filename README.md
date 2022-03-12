@@ -3,5 +3,9 @@ A ticket booking system with a GUI. Separate login system for admin and client .
 
 
 #How to run
+
+
 First run sever.java
+
+
 then entry.java
